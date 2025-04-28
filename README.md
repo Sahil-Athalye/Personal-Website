@@ -1,4 +1,4 @@
-# Personal Portfolio Website: https://sahil-athalye.github.io/Personal-Website/?
+# Personal Portfolio Website: https://sahil-athalye.github.io/Personal-Website/
 
 This is a responsive personal portfolio website for showcasing projects, experience, and skills. It is designed to provide a professional online presence and highlight software engineering and computational biology achievements.
 
